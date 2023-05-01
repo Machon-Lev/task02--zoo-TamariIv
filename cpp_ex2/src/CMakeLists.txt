@@ -1,0 +1,7 @@
+target_sources (cpp_ex2 PRIVATE "cpp_ex2.cpp")
+target_sources (cpp_ex2 PRIVATE "Animal.cpp")
+target_sources (cpp_ex2 PRIVATE "Lion.cpp")
+target_sources (cpp_ex2 PRIVATE "Owl.cpp")
+target_sources (cpp_ex2 PRIVATE "Monkey.cpp")
+target_sources (cpp_ex2 PRIVATE "Location.cpp")
+target_sources (cpp_ex2 PRIVATE "Zoo.cpp")

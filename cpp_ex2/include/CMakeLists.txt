@@ -1,0 +1,1 @@
+target_include_directories (cpp_ex2 PRIVATE ${CMAKE_CURRENT_LIST_DIR})
